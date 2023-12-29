@@ -40,6 +40,10 @@ To verify if everything works, let's execute the following command.
 
 With that, we are ready to configure Tasker.
 
+## Importing the profile to tasker
+
+Follow [this](https://www.reddit.com/r/tasker/comments/7g7694/how_to_import_a_file_into_tasker_a_quick_easy/) guide to import the file tasker_profile.prf.xml to Tasker.
+
 ## To Do
 
-I'll eventually edit this with the Tasker profile (Hopefully)
+Add error handling everywhere
